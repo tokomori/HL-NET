@@ -1,0 +1,35 @@
+﻿@model IEnumerable<HL_NET.Models.User>
+
+<h2>Danh sách người dùng</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>UserId</th>
+            <th>Họ tên</th>
+            <th>Email</th>
+            <th>Tuổi</th>
+            <th>Ngày tạo</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserId</td>
+                <td>@user.FullName</td>
+                <td>@user.Email</td>
+                <td>@user.Age</td>
+                <td>@user.CreatedAt.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.UserId">Sửa</a> |
+                    <a asp-action="Delete" asp-route-id="@user.UserId"
+                       onclick="return confirm('Bạn có chắc muốn xóa?');">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Thêm mới</a>

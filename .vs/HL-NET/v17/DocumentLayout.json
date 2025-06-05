@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\HL-NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\migrations\\20250605164851_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\migrations\\20250605164851_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\hl_net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\hl_net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|c:\\users\\dell\\source\\repos\\hl-net\\hl-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{447FB2E3-5D31-431D-B15E-3683D4FFE548}|HL-NET\\HL_NET.csproj|solutionrelative:hl-net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HL-NET\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "HL-NET\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T16:55:43.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "HL-NET\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:54:34.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "HL-NET\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "HL-NET\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T16:54:07.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "HL-NET\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "HL-NET\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-05T16:52:15.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250605164851_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Migrations\\20250605164851_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Migrations\\20250605164851_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Migrations\\20250605164851_InitialCreate.cs",
+              "RelativeToolTip": "HL-NET\\Migrations\\20250605164851_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:51:10.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "HL-NET\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:37:05.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HL_NET.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\HL_NET.csproj",
+              "RelativeDocumentMoniker": "HL-NET\\HL_NET.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\HL_NET.csproj",
+              "RelativeToolTip": "HL-NET\\HL_NET.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-05T16:36:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\appsettings.json",
+              "RelativeDocumentMoniker": "HL-NET\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\appsettings.json",
+              "RelativeToolTip": "HL-NET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T16:31:53.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Models\\User.cs",
+              "RelativeToolTip": "HL-NET\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:23:41.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HL-NET\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:26:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "HL-NET\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:25:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Program.cs",
+              "RelativeDocumentMoniker": "HL-NET\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\HL-NET\\HL-NET\\Program.cs",
+              "RelativeToolTip": "HL-NET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T16:24:31.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
