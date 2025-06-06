@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.RazorAssemblyInfo.cache
+C:\Users\DELL\source\repos\ASP-NETB3\ASP-NETB3\obj\Debug\net8.0\ASP-NETB3.RazorAssemblyInfo.cs
